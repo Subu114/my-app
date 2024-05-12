@@ -17,7 +17,7 @@ To get started with the Meal Ordering App, follow these steps:
 2. Install the necessary dependencies by running `npm install`. Also check the package.json file to get all the dependecies.
 3. Set up Firebase for authentication and Firestore for data storage.
 4. Configure Firebase SDK in your project by adding your Firebase configuration details.
-5. Run the app using `npm start`.
+5. Run the app using `npx expo start`.
 
 ## Technologies Used
 
@@ -30,7 +30,16 @@ To get started with the Meal Ordering App, follow these steps:
 
 ## Screenshots
 
-*Include screenshots of your app here.*
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/Subu114/my-app/main/screenshots/SplashScreen.jpg" alt="Splash Screen" width="200" height="400">
+<img src="https://raw.githubusercontent.com/Subu114/my-app/main/screenshots/IntroPage.jpg" alt="Intro Page" width="200" height="400">
+<img src="https://raw.githubusercontent.com/Subu114/my-app/main/screenshots/LogIn.jpg" alt="Log In" width="200" height="400">
+<img src="https://raw.githubusercontent.com/Subu114/my-app/main/screenshots/Register.jpg" alt="Register" width="200" height="400">
+<img src="https://raw.githubusercontent.com/Subu114/my-app/main/screenshots/Home.jpg" alt="Home" width="200" height="400">
+<img src="https://raw.githubusercontent.com/Subu114/my-app/main/screenshots/Search.jpg" alt="Search" width="200" height="400">
+<img src="https://raw.githubusercontent.com/Subu114/my-app/main/screenshots/MealsCategory.jpg" alt="Meals Categories" width="200" height="400">
+<img src="https://raw.githubusercontent.com/Subu114/my-app/main/screenshots/MealDisplay.jpg" alt="Meal Display" width="200" height="400">
 
 ## Contributing
 
